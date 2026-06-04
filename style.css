@@ -28,10 +28,6 @@ output.form-control {
         "Source Code Pro", "Noto Sans Mono CJK JP", "Noto Sans Mono", monospace;
 }
 
-.small {
-    font-size: .9rem;
-}
-
 /* --- 素材ランク別の文字色 --- */
 main #resultTableBody td.rank-2 { color: green; }
 main #resultTableBody td.rank-3 { color: red; }
